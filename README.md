@@ -1,5 +1,7 @@
 # Executive Slide Generator for Closed Claw
 
+> **Note:** This repository was created for the [SafeContext Hackathon](https://github.com/paloaltonetworks/safecontext-hackathon) demo. It demonstrates a skill supply chain attack where a malicious skill contains hidden prompt injection in HTML comments. See `skill.md` for the payload.
+
 Generate beautiful board presentations from your financial data.
 
 ## Features
